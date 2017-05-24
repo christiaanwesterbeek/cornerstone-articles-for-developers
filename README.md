@@ -8,3 +8,4 @@ This repo keeps a list of cornerstone articles that every developer will read so
 You're welcome to add your link. Here are some arbitrary criteria for links you add:
 - The contents of the article describes something that has become consensus amongst developers.
 - You've probably seen the article being linked in your career a few times before.
+- The article is written a few years ago. Some more than 10 years ago.
