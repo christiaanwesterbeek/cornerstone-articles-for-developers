@@ -3,7 +3,7 @@ This repo keeps a list of cornerstone articles that every developer will read so
 - ~~[The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) by [Joel Spolsky](https://github.com/jspolsky)~~
 - ~~[The case for separating front- and back-end](http://dontpanic.42.nl/2014/10/the-case-for-separating-front-and-back.html) by [Maarten Hus](https://github.com/MrHus)~~
 
-It's way easier to add create an issue than it is to fork, commit and PR.
+It's way easier to create an issue than it is to fork, commit and PR.
 
 So let's **create an issue for every article** you want to share. Cool? 
 
