@@ -1,13 +1,9 @@
 This repo keeps a list of cornerstone articles that every developer will read sooner or later in his career.
 
-- ~~[The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) by [Joel Spolsky](https://github.com/jspolsky)~~
-- ~~[The case for separating front- and back-end](http://dontpanic.42.nl/2014/10/the-case-for-separating-front-and-back.html) by [Maarten Hus](https://github.com/MrHus)~~
+If you want to share a link to a cornerstone article, create an issue for it. Cool? 
 
-It's way easier to create an issue than it is to fork, commit and PR.
-
-So let's **create an issue for every article** you want to share. Cool? 
-
-Here are some arbitrary criteria for links you add:
-- The contents of the article describes something that has become consensus amongst developers.
+Here are some arbitrary criteria for cornerstone article
+- The article describes not a product (like Angular) but rather a [paradigm](https://en.wikipedia.org/wiki/Paradigm)
+- The article describes something that has become consensus amongst developers.
 - You've probably seen the article being linked in your career a few times before.
 - The article is written a few years ago. Some more than 10 years ago.
